@@ -1,2 +1,2 @@
-# Vagrant
+# Description
 Examples of using Vagrant
