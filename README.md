@@ -1,2 +1,2 @@
 # Description
-Examples of using Vagrant
+This repository contains two directories with examples of using Vagrant. Descriptions inside.
